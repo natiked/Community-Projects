@@ -9,7 +9,7 @@ That’s it. Enjoy Building!
 
 ## List of Community Projects
 #### Supply-chain management system. 
-The project details are written here.
-GitHub Repo [https://github.com/halas77/scm]
+- The project details are written here.
+- (GitHub Repo)[https://github.com/halas77/scm]
 
 #### Health management system 
