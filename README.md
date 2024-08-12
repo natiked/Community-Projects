@@ -1,4 +1,6 @@
-# Haniccha - Web3 Projects
+# Xerxis Community Web3 Projects
 
- - Supply-chain managment system
- - Health mangemnt system
+### Supply-chain management system: 
+https://github.com/halas77/scm
+
+### Health management system
