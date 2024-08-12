@@ -1,4 +1,4 @@
-# Xerxis Community Projects
+# Haniccha - Web3 Projects
 
-
-1. Project name: Supply Chain Link: https://github.com/halas77/scm
+ - Supply-chain managment system
+ - Health mangemnt system
