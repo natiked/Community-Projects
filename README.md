@@ -14,3 +14,6 @@ That’s it. Enjoy Building!
 
 #### Health management system 
 - GitHub Repo:https://github.com/Cribmill/CareSync
+
+## BlockRSVP(Event RSVP system)
+- Github Repo: https://github.com/AwakendJJ/Xerxis-class-project
