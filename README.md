@@ -20,3 +20,6 @@ That’s it. Enjoy Building!
 
 #### Supporters Nft
 - Github Repo: https://github.com/Na4ti28/supportersnft
+
+#### Voting System
+- Github Repo: https://github.com/natiked/simpleVotingsystem
