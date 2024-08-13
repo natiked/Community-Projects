@@ -19,4 +19,4 @@ That’s it. Enjoy Building!
 - Github Repo: https://github.com/AwakendJJ/Xerxis-class-project
 
 #### Supporters Nft
--https://github.com/Na4ti28/supportersnft
+- Github Repo: https://github.com/Na4ti28/supportersnft
